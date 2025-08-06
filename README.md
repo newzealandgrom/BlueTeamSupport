@@ -102,7 +102,7 @@ TOKEN = "YOUR_BOT_TOKEN"
 ADMIN_ID = 606863022
 
 # Initial admin set
-ADMIN_IDS = {606863022}
+ADMIN_IDS = {22222222}
 ```
 
 ### Network Settings
